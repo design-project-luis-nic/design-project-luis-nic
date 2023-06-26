@@ -1,0 +1,26 @@
+.smaller-font {
+    font-size: small;
+}
+
+.btn-circle {
+    width: 80px;
+    height: 80px;
+    padding: 10px 10px;
+    border-radius: 60px;
+    font-size: 15px;
+    text-align: center;
+    border: unset;
+}
+
+.btn-red {
+    background-color: #E6563B;
+}
+.btn-yellow {
+    background-color: #EB9D3a;
+}
+.btn-green {
+    background-color: #7CB06C;
+}
+.btn-blue {
+    background-color: #00ABA9;
+}
