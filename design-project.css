@@ -1,3 +1,8 @@
+.page-wrapper {
+    font-family:sans-serif ABEL-REGULAR;
+    background-color: #E6E6E6;
+}
+
 .smaller-font {
     font-size: small;
 }
@@ -7,9 +12,9 @@
     height: 80px;
     padding: 10px 10px;
     border-radius: 60px;
-    font-size: 15px;
+    font-size: 10px;
     text-align: center;
-    border: unset;
+    border: solid #F0F0F0;
 }
 
 .btn-red {
