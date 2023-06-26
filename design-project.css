@@ -8,13 +8,18 @@
 }
 
 .btn-circle {
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    aspect-ratio: 1/1;
     padding: 10px 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
     border-radius: 60px;
-    font-size: 10px;
+    font-size: 15px;
     text-align: center;
     border: solid #F0F0F0;
+    font-family: 'Anton', sans-serif;
+
 }
 
 .btn-red {
