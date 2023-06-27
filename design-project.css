@@ -1,6 +1,6 @@
 .page-wrapper {
     font-family: sans-serif ABEL-REGULAR;
-    background-color: #E6E6E6;
+    background-color: #F0F0F0;
 }
 
 .smaller-font {
@@ -17,7 +17,7 @@
     border-radius: 60px;
     font-size: 15px;
     text-align: center;
-    border: solid #F0F0F0;
+    border: solid white;
     font-family: 'Anton', sans-serif;
 
 }
@@ -47,4 +47,14 @@
     margin-left: 8px;
     text-align: center;
     font-family: 'Anton', sans-serif;
+}
+
+.nr-sizing {
+    height: 100%;
+    width: 100%;
+}
+
+.nr-sizing-sm {
+    height: auto;
+    width: 100%;
 }
