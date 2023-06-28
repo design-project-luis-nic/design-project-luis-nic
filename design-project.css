@@ -21,7 +21,7 @@ img {
     border-radius: 60px;
     font-size: 15px;
     text-align: center;
-    border: solid white;
+    border: solid 8px white;
     font-family: 'Anton', sans-serif;
 
 }
@@ -90,10 +90,10 @@ h5 {
     font-size: .7rem;
 }
 
-.nr-margin-l {
-    margin-left: 3px;
+@media screen and (max-width: 600px){
+    .nr-btn-media {
+        margin-right: 100%;
+        margin-left: 100%;
+    }
 }
 
-.nr-margin-r {
-    margin-right: 3px;
-}
