@@ -97,3 +97,6 @@ h5 {
     }
 }
 
+.nr-nav {
+    text-align: unset;
+}
